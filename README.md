@@ -5,6 +5,6 @@ _Si se selecciona un libro determinado se pueden visualizar todos sus detalles._
 ---
 ### Video donde se muestra la navegabilidad del proyecto
 
-[Seshat - libros OnLine](https://www.loom.com/share/d3a4ba5fd3494443a93cf3ea29d55996)
+[Seshat - libros OnLine](https://drive.google.com/file/d/1ORBwQVncd-8h99BPU-pDrrOnPnf1_06P/view?usp=share_link)
 
 
